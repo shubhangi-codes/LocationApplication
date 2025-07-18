@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocationApplication</string>
+
+    <string name="get_location">Get Last Known Location</string>
+    <string name="location_app">Location App</string>
+    <string name="last_known_location">Last Known Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="n_a">N/A</string>
+</resources>
